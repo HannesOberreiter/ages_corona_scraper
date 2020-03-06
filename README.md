@@ -1,0 +1,1 @@
+Small python script to scrape the number of people infected with corona in Austra with corresponding states from the official [AGES Homepage](https://www.ages.at/themen/krankheitserreger/coronavirus/).
