@@ -1,0 +1,1 @@
+Small python webpage scraping script to extract the number of people infected with COVID-19 in Austria and corresponding states from the official [AGES Homepage](https://www.ages.at/themen/krankheitserreger/coronavirus/).
